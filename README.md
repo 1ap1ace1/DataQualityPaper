@@ -37,4 +37,4 @@ Contributed by Zhihao Wang.
 ## [Data Cleaning](#content)
 1. **Scalable Similarity Joins of Tokenized Strings.** ICDE 2019. [paper](http://ieeexplore-ieee-org-s.ivpn.hit.edu.cn/stamp/stamp.jsp?tp=&arnumber=8731435)
     *Ahmed Metwally , Chun-Heng Huang.*
-*
+
