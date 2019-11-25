@@ -38,6 +38,10 @@ Contributed by Zhihao Wang.
 
     *Mostafa Milani ; Zheng Zheng ; Fei Chiang*
     
+1. **Cleaning Data with Forbidden Itemsets** ICDE 2017.[paper](http://ieeexplore-ieee-org-s.ivpn.hit.edu.cn/stamp/stamp.jsp?tp=&arnumber=7930034)
+
+    *Joeri Rammelaere ; Floris Geerts ; Bart Goethals*
+    
 1. **Cleanits: A Data Cleaning System for Industrial Time Series** VLDB 2019.[paper](http://www.vldb.org/pvldb/vol12/p1786-ding.pdf)
 
     *Xiaoou Ding, Hongzhi Wang, Jiaxuan Su, Zijue Li, Jianzhong Li, Hong Gao:*
