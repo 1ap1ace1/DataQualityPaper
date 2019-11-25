@@ -35,3 +35,28 @@ Contributed by Zhihao Wang.
 
     *Mostafa Milani ; Zheng Zheng ; Fei Chiang*
     
+1. **Cleanits: A Data Cleaning System for Industrial Time Series** VLDB 2019.[paper](http://www.vldb.org/pvldb/vol12/p1786-ding.pdf)
+
+    *Xiaoou Ding, Hongzhi Wang, Jiaxuan Su, Zijue Li, Jianzhong Li, Hong Gao:*
+    
+1. **Time Series Data Cleaning: From Anomaly Detection to Anomaly Repairing** VLDB 2017.[paper](http://www.vldb.org/pvldb/vol10/p1046-song.pdf)
+
+    *Aoqian Zhang, Shaoxu Song, Jianmin Wang, Philip Yu:*
+    
+ 1. **HoloClean: Holistic Data Repairs with Probabilistic Inference** VLDB 2017.[paper](http://www.vldb.org/pvldb/vol10/p1190-rekatsinas.pdf)
+
+    *Theodoros Rekatsinas, Xu Chu, Ihab Ilyas, Chris Re:*   
+    
+ 1. **Effective Temporal Dependence Discovery in Time Series Data** VLDB 2017.[paper](http://www.vldb.org/pvldb/vol11/p893-cai.pdf)
+
+    *Qingchao Cai, Zhongle Xie, Gang Chen, H. Jagadish, Beng Chin Ooi, Meihui Zhang:*   
+
+ 1. **Cleaning Timestamps with Temporal Constraints**  VLDB 2016.[paper](http://www.vldb.org/pvldb/vol9/p708-song.pdf)
+
+    *Shaoxu Song, Yue Cao, Jianmin Wang:*   
+    
+ 1. **Time series cleaning under variance constraints**  DASFAA 2018.[paper](http://link-springer-com-s.ivpn.hit.edu.cn/content/pdf/10.1007%2F978-3-319-91455-8.pdf)
+
+    *Wei Yin, Tianbai Yue, Hongzhi Wang, Yanhao Huang, Yaping Li.*   
+    
+    
