@@ -30,7 +30,10 @@ Contributed by Zhihao Wang.
     
 ## [Data Cleaning](#content)
 
-    
+1. **Learning Individual Models for Imputation** ICDE 2019.[paper](http://ieeexplore-ieee-org-s.ivpn.hit.edu.cn/stamp/stamp.jsp?tp=&arnumber=8731351)
+
+    *Aoqian Zhang, Shaoxu Song, Yu Sun, Jianmin Wang*
+        
 1. **CurrentClean: Spatio-Temporal Cleaning of Stale Data** ICDE 2019.[paper](http://ieeexplore-ieee-org-s.ivpn.hit.edu.cn/stamp/stamp.jsp?tp=&arnumber=8731522)
 
     *Mostafa Milani ; Zheng Zheng ; Fei Chiang*
