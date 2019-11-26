@@ -38,7 +38,7 @@ Contributed by Zhihao Wang.
 
     *Mostafa Milani ; Zheng Zheng ; Fei Chiang*
     
-~~1. **Cleaning Data with Forbidden Itemsets** ICDE 2017.[paper](http://ieeexplore-ieee-org-s.ivpn.hit.edu.cn/stamp/stamp.jsp?tp=&arnumber=7930034)~~
+1.~~ **Cleaning Data with Forbidden Itemsets** ICDE 2017.[paper](http://ieeexplore-ieee-org-s.ivpn.hit.edu.cn/stamp/stamp.jsp?tp=&arnumber=7930034)~~
 
     *Joeri Rammelaere ; Floris Geerts ; Bart Goethals*
     
