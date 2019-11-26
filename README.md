@@ -82,3 +82,6 @@ Contributed by Zhihao Wang.
 
     *Shaoxu Song, Aoqian Zhang, Jianmin Wang, Philip S. Yu*   
        
+ 1. **Cleaning time-series and other data streams**  Blog.[web](http://exploringdatablog.blogspot.com/2011/11/cleaning-time-series-and-other-data.html)
+
+    * Ron Pearson (aka TheNoodleDoodler) *   
