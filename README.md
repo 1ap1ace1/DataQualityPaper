@@ -38,9 +38,17 @@ Contributed by Zhihao Wang.
 
     *Mostafa Milani ; Zheng Zheng ; Fei Chiang*
     
-1. **~~Cleaning Data with Forbidden Itemsets~~** ICDE 2017.[paper](http://ieeexplore-ieee-org-s.ivpn.hit.edu.cn/stamp/stamp.jsp?tp=&arnumber=7930034)
+1. **Cleaning Data with Forbidden Itemsets** ICDE 2017.[paper](http://ieeexplore-ieee-org-s.ivpn.hit.edu.cn/stamp/stamp.jsp?tp=&arnumber=7930034)
 
     *Joeri Rammelaere ; Floris Geerts ; Bart Goethals*
+    
+1. **Cleaning Structured Event Logs: A Graph Repair Approach.** ICDE 2015.[paper](http://ise.thss.tsinghua.edu.cn/sxsong/doc/15icde.pdf)
+
+    *Jianmin Wang, Shaoxu Song, Xuemin Lin, Xiaochen Zhu, Jian Pei.*
+    
+1. **Holistic data cleaning: Putting violations into context** ICDE 2013.[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6544847)
+
+    *Xu Chu ; Ihab F. Ilyas ; Paolo Papotti*
     
 1. **Cleanits: A Data Cleaning System for Industrial Time Series** VLDB 2019.[paper](http://www.vldb.org/pvldb/vol12/p1786-ding.pdf)
 
@@ -66,6 +74,10 @@ Contributed by Zhihao Wang.
 
     *Sanjay Krishnan, Jiannan Wang, Eugene Wu, Michael J. Franklin, Ken Goldberg:*   
     
+1. **Repairing Vertex Labels under Neighborhood Constraints**  VLDB 2014.[paper](http://ise.thss.tsinghua.edu.cn/sxsong/doc/14vldb-graph.pdf)
+
+    *Shaoxu Song, Hong Cheng, Jeffrey Xu Yu, Lei Chen.*   
+    
  1. **Time series cleaning under variance constraints**  DASFAA 2018.[paper](http://link-springer-com-s.ivpn.hit.edu.cn/content/pdf/10.1007%2F978-3-319-91455-8.pdf)
 
     *Wei Yin, Tianbai Yue, Hongzhi Wang, Yanhao Huang, Yaping Li.*   
@@ -73,6 +85,10 @@ Contributed by Zhihao Wang.
 1. **Sequential Data Cleaning: A Statistical Approach**  SIGMOD 2016.[paper](http://ise.thss.tsinghua.edu.cn/sxsong/doc/16sigmod-sequential.pdf)
 
     *Aoqian Zhang，Shaoxu Song，Jianmin Wang*   
+    
+1. **Constraint-Variance Tolerant Data Repairing**  SIGMOD 2016.[paper](http://ise.thss.tsinghua.edu.cn/sxsong/doc/16sigmod-constraint.pdf)
+
+    *Shaoxu Song, Han Zhu, Jianmin Wang.*   
     
 1. **Learning-Based Cleansing for Indoor RFID Data**  SIGMOD 2016.[paper]()
 
@@ -82,6 +98,10 @@ Contributed by Zhihao Wang.
 
     *Shaoxu Song, Aoqian Zhang, Jianmin Wang, Philip S. Yu*   
        
+  1. **Scaling out big data missing value imputations: pythia vs. godzilla**  KDD 2014.[paper](http://delivery.acm.org/10.1145/2630000/2623615/p651-anagnostopoulos.pdf?ip=221.212.176.50&id=2623615&acc=ACTIVE%20SERVICE&key=BF85BBA5741FDC6E%2E5C4511229FC427D6%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1574949349_a118a7c259ae31170e6c1e1fc20dd7a6)
+
+    *Christos Anagnostopoulos，Peter Triantafillou*   
+    
  1. **Cleaning time-series and other data streams**  Blog.[web](http://exploringdatablog.blogspot.com/2011/11/cleaning-time-series-and-other-data.html)
 
     * Ron Pearson (aka TheNoodleDoodler) *   
