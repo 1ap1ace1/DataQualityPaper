@@ -30,6 +30,14 @@ Contributed by Zhihao Wang.
     
 ## [Data Cleaning](#content)
 
+1. **Turn Waste into Wealth: On Simultaneous Clustering and Cleaning over Dirty Data**  KDD 2015.[paper](http://delivery.acm.org/10.1145/2790000/2783317/p1115-song.pdf?ip=221.212.176.50&id=2783317&acc=ACTIVE%20SERVICE&key=BF85BBA5741FDC6E%2E5C4511229FC427D6%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1574949959_b2a3522859b5530bb024cfc35077d4e5)
+
+    *Shaoxu Song, Chunping Li, Xiaoquan Zhang*   
+    
+1. **Scaling out big data missing value imputations: pythia vs. godzilla**  KDD 2014.[paper](http://delivery.acm.org/10.1145/2630000/2623615/p651-anagnostopoulos.pdf?ip=221.212.176.50&id=2623615&acc=ACTIVE%20SERVICE&key=BF85BBA5741FDC6E%2E5C4511229FC427D6%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1574949349_a118a7c259ae31170e6c1e1fc20dd7a6)
+
+    *Christos Anagnostopoulos，Peter Triantafillou*   
+      
 1. **Learning Individual Models for Imputation** ICDE 2019.[paper](http://ieeexplore-ieee-org-s.ivpn.hit.edu.cn/stamp/stamp.jsp?tp=&arnumber=8731351)
 
     *Aoqian Zhang, Shaoxu Song, Yu Sun, Jianmin Wang*
@@ -74,11 +82,11 @@ Contributed by Zhihao Wang.
 
     *Theodoros Rekatsinas, Xu Chu, Ihab Ilyas, Chris Re:*   
     
- 1. **Effective Temporal Dependence Discovery in Time Series Data** VLDB 2017.[paper](http://www.vldb.org/pvldb/vol11/p893-cai.pdf)
+1. **Effective Temporal Dependence Discovery in Time Series Data** VLDB 2017.[paper](http://www.vldb.org/pvldb/vol11/p893-cai.pdf)
 
     *Qingchao Cai, Zhongle Xie, Gang Chen, H. Jagadish, Beng Chin Ooi, Meihui Zhang:*   
 
- 1. **Cleaning Timestamps with Temporal Constraints**  VLDB 2016.[paper](http://www.vldb.org/pvldb/vol9/p708-song.pdf)
+1. **Cleaning Timestamps with Temporal Constraints**  VLDB 2016.[paper](http://www.vldb.org/pvldb/vol9/p708-song.pdf)
 
     *Shaoxu Song, Yue Cao, Jianmin Wang:*   
     
@@ -89,11 +97,7 @@ Contributed by Zhihao Wang.
 1. **Repairing Vertex Labels under Neighborhood Constraints**  VLDB 2014.[paper](http://ise.thss.tsinghua.edu.cn/sxsong/doc/14vldb-graph.pdf)
 
     *Shaoxu Song, Hong Cheng, Jeffrey Xu Yu, Lei Chen.*   
-    
- 1. **Time series cleaning under variance constraints**  DASFAA 2018.[paper](http://link-springer-com-s.ivpn.hit.edu.cn/content/pdf/10.1007%2F978-3-319-91455-8.pdf)
 
-    *Wei Yin, Tianbai Yue, Hongzhi Wang, Yanhao Huang, Yaping Li.*   
-    
 1. **Sequential Data Cleaning: A Statistical Approach**  SIGMOD 2016.[paper](http://ise.thss.tsinghua.edu.cn/sxsong/doc/16sigmod-sequential.pdf)
 
     *Aoqian Zhang，Shaoxu Song，Jianmin Wang*   
@@ -106,18 +110,14 @@ Contributed by Zhihao Wang.
 
     *Asif Iqbal Baba，Manfred Jaeger，Hua Lu...*   
     
- 1. **SCREEN: Stream Data Cleaning under Speed Constraints**  SIGMOD 2015.[paper](https://www.semanticscholar.org/paper/SCREEN%3A-Stream-Data-Cleaning-under-Speed-Song-Zhang/ec4b1bee27c0294d1819bd9186ed09e8df960aa1)
+1. **SCREEN: Stream Data Cleaning under Speed Constraints**  SIGMOD 2015.[paper](https://www.semanticscholar.org/paper/SCREEN%3A-Stream-Data-Cleaning-under-Speed-Song-Zhang/ec4b1bee27c0294d1819bd9186ed09e8df960aa1)
 
     *Shaoxu Song, Aoqian Zhang, Jianmin Wang, Philip S. Yu*   
 
- 1. **Turn Waste into Wealth: On Simultaneous Clustering and Cleaning over Dirty Data**  KDD 2015.[paper](http://delivery.acm.org/10.1145/2790000/2783317/p1115-song.pdf?ip=221.212.176.50&id=2783317&acc=ACTIVE%20SERVICE&key=BF85BBA5741FDC6E%2E5C4511229FC427D6%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1574949959_b2a3522859b5530bb024cfc35077d4e5)
+1. **Time series cleaning under variance constraints**  DASFAA 2018.[paper](http://link-springer-com-s.ivpn.hit.edu.cn/content/pdf/10.1007%2F978-3-319-91455-8.pdf)
 
-    *Shaoxu Song, Chunping Li, Xiaoquan Zhang*   
+    *Wei Yin, Tianbai Yue, Hongzhi Wang, Yanhao Huang, Yaping Li.*   
     
- 1. **Scaling out big data missing value imputations: pythia vs. godzilla**  KDD 2014.[paper](http://delivery.acm.org/10.1145/2630000/2623615/p651-anagnostopoulos.pdf?ip=221.212.176.50&id=2623615&acc=ACTIVE%20SERVICE&key=BF85BBA5741FDC6E%2E5C4511229FC427D6%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1574949349_a118a7c259ae31170e6c1e1fc20dd7a6)
-
-    *Christos Anagnostopoulos，Peter Triantafillou*   
-    
- 1. **Cleaning time-series and other data streams**  Blog.[web](http://exploringdatablog.blogspot.com/2011/11/cleaning-time-series-and-other-data.html)
+1. **Cleaning time-series and other data streams**  Blog.[web](http://exploringdatablog.blogspot.com/2011/11/cleaning-time-series-and-other-data.html)
 
     *Ron Pearson (aka TheNoodleDoodler)*   
