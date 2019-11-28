@@ -106,7 +106,7 @@ Contributed by Zhihao Wang.
 
     *Shaoxu Song, Han Zhu, Jianmin Wang.*   
     
-1. **Learning-Based Cleansing for Indoor RFID Data**  SIGMOD 2016.[paper]()
+1. **Learning-Based Cleansing for Indoor RFID Data**  SIGMOD 2016.[paper](https://www.researchgate.net/profile/Asif_Baba2/publication/301778320_Learning-Based_Cleansing_for_Indoor_RFID_Data/links/5781de0408ae01f736e6cc62/Learning-Based-Cleansing-for-Indoor-RFID-Data.pdf)
 
     *Asif Iqbal Baba，Manfred Jaeger，Hua Lu...*   
     
