@@ -30,11 +30,11 @@ Contributed by Zhihao Wang.
     
 ## [Data Cleaning](#content)
 
-1. **Turn Waste into Wealth: On Simultaneous Clustering and Cleaning over Dirty Data**  KDD 2015.[paper](http://delivery.acm.org/10.1145/2790000/2783317/p1115-song.pdf?ip=221.212.176.50&id=2783317&acc=ACTIVE%20SERVICE&key=BF85BBA5741FDC6E%2E5C4511229FC427D6%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1574949959_b2a3522859b5530bb024cfc35077d4e5)
+1. **Turn Waste into Wealth: On Simultaneous Clustering and Cleaning over Dirty Data**  KDD 2015.[paper](https://dl.acm.org/citation.cfm?id=2783317)
 
     *Shaoxu Song, Chunping Li, Xiaoquan Zhang*   
     
-1. **Scaling out big data missing value imputations: pythia vs. godzilla**  KDD 2014.[paper](http://delivery.acm.org/10.1145/2630000/2623615/p651-anagnostopoulos.pdf?ip=221.212.176.50&id=2623615&acc=ACTIVE%20SERVICE&key=BF85BBA5741FDC6E%2E5C4511229FC427D6%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1574949349_a118a7c259ae31170e6c1e1fc20dd7a6)
+1. **Scaling out big data missing value imputations: pythia vs. godzilla**  KDD 2014.[paper](https://dl.acm.org/citation.cfm?id=2623615)
 
     *Christos Anagnostopoulos，Peter Triantafillou*   
       
