@@ -14,7 +14,7 @@ Contributed by Zhihao Wang.
 </tr>
 <tr>
     <td>&emsp;<a href="#data-flow-disording">3.  Data Flow Disording</a></td>
-    <td>&ensp;<a href="#data-cleaning">4.  Data Cleaning</a></td>
+    <td>&ensp;<a href="#data-cleaning">4.  Data Cleaning on Time Series</a></td>
 </tr>
 </table>
 
