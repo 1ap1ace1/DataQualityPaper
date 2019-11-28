@@ -38,6 +38,14 @@ Contributed by Zhihao Wang.
 
     *Mostafa Milani ; Zheng Zheng ; Fei Chiang*
     
+1. **Human-Powered Data Cleaning for Probabilistic Reachability Queries on Uncertain Graphs** ICDE 2018.[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8509456)
+
+    *Xin Lin ; Yun Peng ; Jianliang Xu ; Byron Choi*
+    
+1. **Contextual Data Cleaning** ICDE 2018.[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8402013)
+
+    *Morteza Alipour-Langouri ; Zheng Zheng ; Fei Chiang ; Lukasz Golab ; Jaroslaw Szlichta*
+    
 1. **Cleaning Data with Forbidden Itemsets** ICDE 2017.[paper](http://ieeexplore-ieee-org-s.ivpn.hit.edu.cn/stamp/stamp.jsp?tp=&arnumber=7930034)
 
     *Joeri Rammelaere ; Floris Geerts ; Bart Goethals*
@@ -45,6 +53,10 @@ Contributed by Zhihao Wang.
 1. **Cleaning Structured Event Logs: A Graph Repair Approach.** ICDE 2015.[paper](http://ise.thss.tsinghua.edu.cn/sxsong/doc/15icde.pdf)
 
     *Jianmin Wang, Shaoxu Song, Xuemin Lin, Xiaochen Zhu, Jian Pei.*
+    
+1. **Continuous data cleaning** ICDE 2014.[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6816655)
+
+    *Maksims Volkovs ; Fei Chiang ; Jaroslaw Szlichta ; Reneé J. Miller*
     
 1. **Holistic data cleaning: Putting violations into context** ICDE 2013.[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6544847)
 
@@ -97,11 +109,15 @@ Contributed by Zhihao Wang.
  1. **SCREEN: Stream Data Cleaning under Speed Constraints**  SIGMOD 2015.[paper](https://www.semanticscholar.org/paper/SCREEN%3A-Stream-Data-Cleaning-under-Speed-Song-Zhang/ec4b1bee27c0294d1819bd9186ed09e8df960aa1)
 
     *Shaoxu Song, Aoqian Zhang, Jianmin Wang, Philip S. Yu*   
-       
-  1. **Scaling out big data missing value imputations: pythia vs. godzilla**  KDD 2014.[paper](http://delivery.acm.org/10.1145/2630000/2623615/p651-anagnostopoulos.pdf?ip=221.212.176.50&id=2623615&acc=ACTIVE%20SERVICE&key=BF85BBA5741FDC6E%2E5C4511229FC427D6%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1574949349_a118a7c259ae31170e6c1e1fc20dd7a6)
+
+ 1. **Turn Waste into Wealth: On Simultaneous Clustering and Cleaning over Dirty Data**  KDD 2015.[paper](http://delivery.acm.org/10.1145/2790000/2783317/p1115-song.pdf?ip=221.212.176.50&id=2783317&acc=ACTIVE%20SERVICE&key=BF85BBA5741FDC6E%2E5C4511229FC427D6%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1574949959_b2a3522859b5530bb024cfc35077d4e5)
+
+    *Shaoxu Song, Chunping Li, Xiaoquan Zhang*   
+    
+ 1. **Scaling out big data missing value imputations: pythia vs. godzilla**  KDD 2014.[paper](http://delivery.acm.org/10.1145/2630000/2623615/p651-anagnostopoulos.pdf?ip=221.212.176.50&id=2623615&acc=ACTIVE%20SERVICE&key=BF85BBA5741FDC6E%2E5C4511229FC427D6%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1574949349_a118a7c259ae31170e6c1e1fc20dd7a6)
 
     *Christos Anagnostopoulos，Peter Triantafillou*   
     
  1. **Cleaning time-series and other data streams**  Blog.[web](http://exploringdatablog.blogspot.com/2011/11/cleaning-time-series-and-other-data.html)
 
-    * Ron Pearson (aka TheNoodleDoodler) *   
+    *Ron Pearson (aka TheNoodleDoodler)*   
